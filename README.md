@@ -14,7 +14,7 @@
 
 <img align="right" width="380"
      src="https://raw.githubusercontent.com/abdalrhmanghanima/abdalrhmanghanima/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif"
-     style="margin-top: 80px;">
+     style="margin-top: 140px;">
 
 ## 🎯 About Me
 
