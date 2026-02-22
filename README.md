@@ -5,7 +5,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=700&lines=Mobile+Application+Developer;Flutter+%26+Dart+Specialist;Clean+Architecture+Enthusiast;Computer+Science+Student" />
 </div>
+</div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdalrhmanghanima/abdalrhmanghanima/main/gif.gif" width="100%"/>
+</div>
 <br>
 
 ## 🎯 About Me
@@ -42,27 +46,56 @@ class AbdalrhmanGhanima {
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
 </p>
 
-### 🏗 Architecture & Patterns
+## 🏗 Architecture & Patterns
 <p>
   <img src="https://img.shields.io/badge/Clean_Architecture-0F2027?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/SOLID-203A43?style=for-the-badge&logo=solid&logoColor=white" />
   <img src="https://img.shields.io/badge/Repository_Pattern-2C5364?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dependency_Injection-0F2027?style=for-the-badge&logo=dependabot&logoColor=white" />
 </p>
 
-### 🧠 State Management
+---
+
+## 🎨 State Management
 <p>
   <img src="https://img.shields.io/badge/Cubit-0F2027?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/BLoC-203A43?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Provider-2C5364?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-### 🔥 Backend & Services
+---
+
+## 🔥 Firebase & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
-  <img src="https://img.shields.io/badge/REST_API-0F2027?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Firebase-0F2027?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-203A43?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-### 🛠 Tools
+---
+
+## 💾 Database & Storage
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Hive-0F2027?style=for-the-badge&logo=hive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firestore-203A43?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
+---
+
+## 🔗 Integrations
+<p>
+  <img src="https://img.shields.io/badge/Google_Maps-0F2027?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Integration-203A43?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+---
+
+## 🛠 Tools & IDEs
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,githubactions&theme=dark" />
 </p>
@@ -104,13 +137,7 @@ class AbdalrhmanGhanima {
 
 ---
 
-## 💼 Open To Work
-
-Available for:
-- Junior Flutter Developer Roles
-- Internships
-- Remote Opportunities
-- Team-Based Projects
+Available for: Freelance Projects • Full-time Positions • Technical Consulting • Mentorship Team-Based Projects
 
 ---
 
