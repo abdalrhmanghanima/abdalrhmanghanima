@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=700&lines=Mobile+Application+Developer;Flutter+%26+Dart+Specialist;Clean+Architecture+Enthusiast;Computer+Science+Student" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&repeat=true&width=700&lines=Mobile+Application+Developer;Flutter+Developer;Flutter+%26+Dart+Specialist;Clean+Architecture+Enthusiast;Computer+Science+Student" />
 </div>
 
 <div align="center">
@@ -12,12 +12,14 @@
 
 <br>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abdalrhmanghanima/abdalrhmanghanima/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif">
+<img align="right" width="380"
+     src="https://raw.githubusercontent.com/abdalrhmanghanima/abdalrhmanghanima/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif"
+     style="margin-top: 40px;">
 
 ## 🎯 About Me
 
 ```dart
-class AbdalrhmanGhanima {
+class AbdalrhmanGhanima extends MobileDeveloper {
   final String location = "Cairo, Egypt";
   final String role = "Junior Mobile Application Developer";
   final String mainStack = "Flutter & Dart";
@@ -139,13 +141,21 @@ class AbdalrhmanGhanima {
 
 ---
 
-## 💼 Open To Work
+<div align="center">
+
+### 💡 Open to Opportunities
 
 Available for:
 - Junior Flutter Developer Roles
 - Internships
 - Remote Opportunities
 - Team-Based Projects
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=abdalrhmanghanima&color=00C6FF&style=for-the-badge&label=PROFILE+VIEWS&labelColor=0F2027" />
+
+</div>
 
 ---
 
@@ -154,6 +164,12 @@ Available for:
 ### 💭 Developer Mindset
 
 **"Learning. Building. Improving. Repeating."**
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
+</div>
 
 <br>
 
