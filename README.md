@@ -38,9 +38,11 @@ class AbdalrhmanGhanima extends MobileDeveloper {
 }
 ```
 
-<br clear="right"/>
+
 
 ---
+
+<div align="center">
 
 ## 🛠 Tech Stack
 
@@ -48,8 +50,6 @@ class AbdalrhmanGhanima extends MobileDeveloper {
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" />
 </p>
-
----
 
 ## 🏗 Architecture & Patterns
 <p>
@@ -59,8 +59,6 @@ class AbdalrhmanGhanima extends MobileDeveloper {
   <img src="https://img.shields.io/badge/Dependency_Injection-0F2027?style=for-the-badge&logo=dependabot&logoColor=white" />
 </p>
 
----
-
 ## 🎨 State Management
 <p>
   <img src="https://img.shields.io/badge/Cubit-0F2027?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -68,29 +66,16 @@ class AbdalrhmanGhanima extends MobileDeveloper {
   <img src="https://img.shields.io/badge/Provider-2C5364?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
----
-
 ## 🔥 Firebase & Backend Services
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark" />
 </p>
-<p>
-  <img src="https://img.shields.io/badge/Firebase-0F2027?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-203A43?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-
----
 
 ## 💾 Database & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
-</p>
 <p>
   <img src="https://img.shields.io/badge/Hive-0F2027?style=for-the-badge&logo=hive&logoColor=white" />
   <img src="https://img.shields.io/badge/Firestore-203A43?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
-
----
 
 ## 🔗 Integrations
 <p>
@@ -98,14 +83,12 @@ class AbdalrhmanGhanima extends MobileDeveloper {
   <img src="https://img.shields.io/badge/API_Integration-203A43?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
-
 ## 🛠 Tools & IDEs
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,git,githubactions&theme=dark" />
 </p>
 
----
+</div>
 
 ## 📊 GitHub Stats
 
