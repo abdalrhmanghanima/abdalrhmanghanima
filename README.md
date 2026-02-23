@@ -114,9 +114,6 @@ class AbdalrhmanGhanima extends MobileDeveloper {
   <a href="mailto:abdoghanima2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/abdalrhmanghanima">
-    <img src="https://img.shields.io/badge/GitHub-2C5364?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 ---
