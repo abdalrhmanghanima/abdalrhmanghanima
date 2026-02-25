@@ -10,8 +10,6 @@
   <img src="https://raw.githubusercontent.com/abdalrhmanghanima/abdalrhmanghanima/main/gif.gif" width="100%"/>
 </div>
 
-<img align="right" width="420"
-     src="https://raw.githubusercontent.com/abdalrhmanghanima/abdalrhmanghanima/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif">
 
 ## 🎯 About Me
 
