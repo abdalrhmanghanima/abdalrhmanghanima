@@ -28,8 +28,8 @@ class AbdalrhmanGhanima extends MobileDeveloper {
   }
 
   List<String> focusAreas = [
-    "Problem Solving",
     "Scalable Flutter Applications",
+    "Problem Solving",
     "Clean Code",
     "Team Collaboration"
   ];
