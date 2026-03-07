@@ -116,7 +116,7 @@ class AbdalrhmanGhanima extends MobileDeveloper {
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="PORTFOLIO_LINK">
+<a href="https://github.com/abdalrhmanghanima/abdalrhmanghanima/blob/main/Abdalrhman-Ghanima-portfolio_compressed.pdf">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
