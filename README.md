@@ -90,29 +90,37 @@ class AbdalrhmanGhanima extends MobileDeveloper {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abdalrhmanghanima&show_icons=true&theme=dark&hide_border=true&bg_color=0F2027&title_color=00C6FF&icon_color=00C6FF&text_color=ffffff" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrhmanghanima&theme=dark&hide_border=true&background=0F2027&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" />
-</div>
+<p align="center">
+  <img height="170em"
+       src="https://ghstats-amber.vercel.app/api?username=abdalrhmanghanima&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="170em"
+       src="https://ghstats-amber.vercel.app/api/top-langs/?username=abdalrhmanghanima&layout=compact&theme=tokyonight" />
+</p>
 
-<br>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrhmanghanima&layout=compact&theme=dark&hide_border=true&bg_color=0F2027&title_color=00C6FF&text_color=ffffff" />
-</div>
+<p align="center">
+  <img height="170em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrhmanghanima&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🌍 Connect With Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abdalrhman-ghanima-6961a536a">
-    <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdoghanima2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-203A43?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abdalrhman-ghanima-6961a536a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abdoghanima2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
